@@ -1,4 +1,4 @@
-/* OBJETIVO: Receba 2 valores inteiros. Calcule e mostre o resultado da diferença do maior pelo menos valor. 
+/* OBJETIVO: Receba 2 valores inteiros. Calcule e mostre o resultado da diferença do maior pelo menor valor. 
  * AUTOR: Wagner Francisco da Silva
  * DATA: 01/03/19
  */
