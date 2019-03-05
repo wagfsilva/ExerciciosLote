@@ -44,7 +44,5 @@ public class Ex20
 		
 		}
 		return 0;
-	
 	}
-
 }
