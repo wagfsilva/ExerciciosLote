@@ -22,7 +22,6 @@ public class Ex27
 		for( i = 0; i <100; i++)
 		{
 			vet[i] = (int) (Math.random() * 1000) + 1;
-			System.out.println(vet[i]);
 			maior = vet[i];
 			menor = vet[i];
 		}
